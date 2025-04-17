@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "//confidential",
+    "project_id": "//confidential",
+    "storage_bucket": "//confidential"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "//confidential",
+        "android_client_info": {
+          "package_name": "com.example.crud_based"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "//confidential"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
